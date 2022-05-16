@@ -1,0 +1,22 @@
+<html>
+<head>
+<title> paragraph example </title>
+</head>
+<body>
+<h1> tabel 1 </table>
+<h1> photo galary </h1>
+<img src="a1.jpg" width="100%" height="50%"></img> <br>
+ 
+ <h1 align="center"> photo galary </h1>
+ <center>
+ <table border="1">
+ <tr>
+ <td> <img src="a2.jpg"><br>
+ <td> <img src="a3.jpg">
+ </tr>
+ </table>
+ </center>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/NA0TNLLdpXg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/Eu7G0jV0ImY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ </body>
+ </html>
