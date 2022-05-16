@@ -1,0 +1,76 @@
+<html>
+<head>
+   <title> table example2</title>
+</head>
+<body>
+     <center>
+	 <h1> example </h1>
+	 </center>
+	 <table border="1">
+	  <thead>
+	   <tr>
+	    <th> logo </th>
+		<th colspan="3"> top menu</th>
+		 <thead>
+		  <tbody align="center">
+		</tr>
+                    <tr>
+                       <td rowspan="2">slide menu </td>
+					   <td> world news</td>
+					   <td> financial </td>
+					   <td rowspan="2"> list of ads </td>
+					   </tr>
+                       <tr>
+                         <td> sports</td>
+                         <td> technology</td>
+						 </tr>
+						 <tr>
+						   <td colspan="4" align="center"> footer</td>
+						   </tr>
+				</tbody>
+                </table>
+                </center>
+                <center>
+                 <h1> example2</h1>
+                </center>
+                <table cellspacing="7" cellpadding="7" border="6" align="center" bgcolor="white">
+          <tr>
+           <td rowspan="2"> date</td>
+           <td rowspan="2"> particular</td>
+           </tr>
+
+
+           <tr>
+              <td rowspan="2">slide menu </td>
+               <td> world news </td>
+               <td> financial </td>
+               <td rowspan="2">list of ads</td>
+               </tr>
+               <tr>
+                  <td> sports </td>
+                  <td> technology </td>
+				  </tr>
+				  <tr>
+				     <td colspan="4" align="center"> footer</td>
+					 </tr>
+		</tbody>
+        </table>
+        </center>
+        <center>
+        <h1> example 2</h1>
+        </center>
+        <table cellspacing="7" cellpadding="7" border="6" align="center" bgcolor="white">
+        
+    <tr>
+     <td rowspan="2">date </td>
+     <td rowspan="2">particular </td>	 
+     <td colspan="3" align="center"> amount </td>
+     </tr>
+     <tr><td> debit</td><td> credit</td><td> amount </td></tr>
+     <tr>
+         <td> 1/1/18</td>  <td> beginning balance </td>  <td>100</td>  <td> </td> <td>100</td>
+     </tr>
+     <tr> <td> </td>   <td></td>  <td></td>  <td>300</td> <td> 200</td> </tr>
+     </table>
+</body> 	 
+</html>
